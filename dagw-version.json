@@ -1,10 +1,5 @@
 {
     "versions": [{
-            "major": 3,
-            "minor": 0,
-            "characters": []
-        },
-        {
             "major": 2,
             "minor": 3,
             "characters": []
