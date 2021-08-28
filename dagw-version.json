@@ -1,6 +1,13 @@
 {
-    "latestVersion": {
-        "major": 2,
-        "minor": 0
-    }
+    "versions": [{
+            "major": 2,
+            "minor": 1,
+            "characters": ["Mona", "Amber"]
+        },
+        {
+            "major": 2,
+            "minor": 0,
+            "characters": ["Diluc"]
+        }
+    ]
 }
