@@ -2,12 +2,17 @@
     "versions": [{
             "major": 2,
             "minor": 1,
-            "characters": ["Mona", "Amber"]
+            "characters": [
+                "Mona",
+                "Amber"
+            ]
         },
         {
             "major": 2,
             "minor": 0,
-            "characters": ["Diluc"]
+            "characters": [
+                "Diluc"
+            ]
         }
     ]
 }
