@@ -1,5 +1,22 @@
 {
     "versions": [{
+            "major": 3,
+            "minor": 0,
+            "characters": []
+        },
+        {
+            "major": 2,
+            "minor": 3,
+            "characters": []
+        },
+        {
+            "major": 2,
+            "minor": 2,
+            "characters": [
+                "Ning Guang"
+            ]
+        },
+        {
             "major": 2,
             "minor": 1,
             "characters": [
