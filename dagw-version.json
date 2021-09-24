@@ -1,9 +1,17 @@
 {
     "versions": [{
-        "major": 2,
-        "minor": 1,
-        "characters": [
-            "Diluc"
-        ]
-    }]
+            "major": 2,
+            "minor": 1,
+            "characters": [
+                "Diluc"
+            ]
+        },
+        {
+            "major": 2,
+            "minor": 2,
+            "characters": [
+                "Mona"
+            ]
+        }
+    ]
 }
