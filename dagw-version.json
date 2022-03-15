@@ -1,6 +1,20 @@
 {
     "versions": [{
             "major": 2,
+            "minor": 4,
+            "characters": [
+                "Raiden Shogun"
+            ]
+        },
+        {
+            "major": 2,
+            "minor": 3,
+            "characters": [
+                "Lisa"
+            ]
+        },
+        {
+            "major": 2,
             "minor": 2,
             "characters": [
                 "Mona"
